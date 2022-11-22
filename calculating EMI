@@ -1,0 +1,5 @@
+p=int(input('principal amount:'))
+si=int(input('simple intrest:'))
+t=int(input('time period:'))
+emi=(si+p)/t*12
+print(emi
