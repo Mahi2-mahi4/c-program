@@ -1,0 +1,7 @@
+m=int(input('enter m value:'))
+t=int(input('enter t value:'))
+if m==t:
+    print('equal')
+else:
+    print('not equal')
+
