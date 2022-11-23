@@ -1,0 +1,7 @@
+i=int(input('enter i value:'))
+j=int(input('enter j value:'))
+if i%2==0:
+    print('i is even')
+else:
+    print('j is odd')
+    
