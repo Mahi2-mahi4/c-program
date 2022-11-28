@@ -1,0 +1,6 @@
+pin=8985
+n=int(input())
+if n==pin:
+    print('valid')
+else:
+    print('not valid')
