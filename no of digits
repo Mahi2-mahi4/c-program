@@ -1,0 +1,3 @@
+str1=input("enter any string")
+length=len(str1)
+print("no.of digit is given string=",length)
