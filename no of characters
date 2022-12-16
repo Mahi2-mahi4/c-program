@@ -1,0 +1,4 @@
+str1=input("Enter any string")
+length=len(str1)
+print("No.of character in the given string=",length)
+
