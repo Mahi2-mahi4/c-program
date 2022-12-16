@@ -1,0 +1,20 @@
+str1=input("Enter any string")
+length=len(str1)
+print("No of charcters in the given string=",length)
+str2=input("Enter string in small letters")
+print(str2.upper())
+str3=input("Enter string in capital letters")
+print=(str3.lower())
+
+or
+
+
+
+str=input()
+str2=input()
+cnt=0
+print(str.upper())
+for i in str:
+    cnt=cnt+1
+print(cnt)
+print(str2.swapcase())
